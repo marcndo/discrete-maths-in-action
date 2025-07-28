@@ -19,8 +19,6 @@ Build deep understanding of mathematical foundations behind algorithms, enhance 
 
 ---
 
----
-
 ## Repo Structure
 ```
 ├── 01_Logic_Proofs/
@@ -55,3 +53,22 @@ Build deep understanding of mathematical foundations behind algorithms, enhance 
 ```
 
 ---
+## How to Use This Repo
+1. Start with the chapter folders.
+2. Read the `notes.md` to refresh concepts.
+3. Run `examples.py` to see how math becomes code.
+4. Try solving the listed problems in `leetcode_problems.md`.
+5. Track your progress in the [tracker](../tracker/discrete-math-tracker.xlsx) and Notion.
+
+---
+## Author
+**Ndowah Marcel**
+- Bachelor’s in Mathematics
+- IBM Machine Learning & GenAI Certified
+- Passionate about translating math into code
+
+---
+## Goal
+Become among the **top 10% problem solvers** and land a **remote AI/ML role in a FAANG company** by October 🎯
+
+Let's build the bridge from Math ➡️ Code ➡️ Mastery 💪

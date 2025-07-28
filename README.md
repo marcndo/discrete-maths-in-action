@@ -72,6 +72,4 @@ Anyone who:
 - Passionate about translating mathematics into code and building intelligent systems and applications.
 
 ---
-## Goal
-Becoming one of the **top 10% problem solvers** that FAANG companies would love to hire
 Let's build the bridge from Math ➡️ Code ➡️ Mastery 💪

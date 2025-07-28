@@ -1,7 +1,7 @@
 # Discrete Math in Action
 A curated, practical guide for mastering discrete mathematics and applying it to algorithm design, coding problems, and real-world systems. Designed for serious learners aiming to become among the **top 10% problem solvers** that FAANG would like to hire for a **remote AI/ML role in a FAANG company**.
 
-
+---
 ## Who This Is For
 Anyone who:
 - Knows math but struggles to **apply it to programming or algorithm design**

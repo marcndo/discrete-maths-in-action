@@ -12,7 +12,7 @@ Anyone who:
 ---
 ## Primary Study Resource
 **Mathematics for Computer Science (MCS)** – MIT OpenCourseWare (by Eric Lehman, Tom Leighton, and Albert R. Meyer)
-- [PDF Book](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2005/resources/textbook/) (Free)
+- [PDF Book](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (Free)
 
 ---
 ## Study Plan & Resources

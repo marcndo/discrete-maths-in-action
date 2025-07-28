@@ -69,10 +69,9 @@ Anyone who:
 **Ndowah Marcel Ambo**
 - Bachelor’s in Mathematics
 - IBM Machine Learning & GenAI Certified
-- Passionate about translating math into code
+- Passionate about translating mathematics into code and building intelligent systems and applications.
 
 ---
 ## Goal
-Become among the **top 10% problem solvers** and land a **remote AI/ML role in a FAANG company** by October 🎯
-
+Becoming one of the **top 10% problem solvers** that FAANG companies would love to hire
 Let's build the bridge from Math ➡️ Code ➡️ Mastery 💪
